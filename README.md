@@ -25,7 +25,8 @@ The company is a UK-based e-commerce business that has been selling gifts and ho
 
 - **Visualizing Result**: Visualized customer segmentation based on RFM in 2D and 3D. Determined distribution customers in each cluster
 
-- **Segmentation Analysis**: Interpreted characteristics in each segment, then giving business recommendations for each segment.
+- **Segmentation Analysis & Business Recomendation**: Interpreted characteristics in each segment, then giving business recommendations for each segment.
+
 
 
 ## Skills Applied
